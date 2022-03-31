@@ -1,6 +1,6 @@
 ### Hello there 👋, I am Anupom Das, a senior high school student. 
 #### Beginner in coding, enthusiastic. Learning every single day.
-#### I love math. I like to do mathematical simulations with coding.
+#### I love math. I like to do mathematical stuffs with coding.
 
 
 
